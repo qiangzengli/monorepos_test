@@ -1,7 +1,7 @@
 name: counter_app
 
 packages:
-  - "app/*"
+  - "apps/**"
   - "packages/**"
 
 command:
