@@ -1,4 +1,4 @@
-name: counter_app
+name: menorepos_test
 
 packages:
   - "apps/**"
@@ -6,7 +6,7 @@ packages:
 
 command:
   bootstrap:
-    usePubspecOverrides: true
+#    usePubspecOverrides: true
 
 scripts:
   analyze:
