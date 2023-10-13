@@ -1,4 +1,4 @@
-name: sanga_workspace
+name: monorepos_test
 
 environment:
   sdk: '>=2.18.0 <3.0.0'
