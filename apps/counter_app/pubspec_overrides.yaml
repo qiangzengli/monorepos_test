@@ -1,4 +1,0 @@
-# melos_managed_dependency_overrides: plugin_test
-dependency_overrides:
-  plugin_test:
-    path: ../../packages/plugin_test
